@@ -9,9 +9,9 @@ all community leaders and managers can suggest speakers for the event. Need to w
 	Speaker name - Kunal Kushwaha
 	Topic - Need to add topic name
 	Agenda - it depend on topic
-			line 1
-			line 2
-			line 3
+		* line 1
+		* line 2
+		* line 3
 	Time - need to clarify time for event.
 
 ### Create a presentation -  
