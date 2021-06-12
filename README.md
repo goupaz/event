@@ -42,3 +42,49 @@ Review and dry run slides with speaker
 ### Optional case - 
 Reach to Special Guests if any
 
+## During session
+
+ ### Join a Zoom call at least 15 minutes before - in order to check technical issues (zoom, sharing, presentation in canva and etc. ).
+
+ ### Reminder Speaker with direct message, if required.
+
+ ### Start no later than 10 minutes past, buffer time for having fireside chat
+
+ ### Make sure attenders are enjoying and feeling some vibes, fun replicas could help
+
+ ### Start recording, and inform attendees it will be shared in public after
+
+ ### Intro yourself
+
+ ### Intro speaker
+
+ ### Intro topic will be covered
+
+ ### Go through agenda including: kick-off, intro, presentation, break, q&a and wrap up, feedback
+
+ ### Kindly ask to obey Code of Conduct, and mute if not speaking
+
+ ### Kindly ask to fill in Meeting Minutes including fullname and linkedin, questions
+
+ ### Kindly ask to open camera & smile for photo shoot, to be the frontface of session
+
+ ### Give control to speaker
+
+ ### Make sure stop/start recording during break
+
+## Post session
+
+ ### Upload slides, MeetingMinutes as pdf to Github
+
+ ### Upload session to Youtube included: links to slides, MeetingMinutes, presenter, topic
+
+ ### Update Sessions table in Github
+
+ ### Share post in Linkedin, Twitter, Slack included photo and thank you to speaker, links to: recording, slides, MeetingMinutes
+
+ ### Send email to all registers included photo and thank you to speaker, links to: recording, slides, MeetingMinutes
+
+
+
+
+
